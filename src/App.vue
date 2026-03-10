@@ -31,7 +31,7 @@
           </div>
         </div>
         <div class="hero-image">
-          <img :src="profileImg" alt="Profile Picture" class="profile-pic" />
+          <img :src="`${baseUrl}profile.jpg`" alt="Profile Picture" class="profile-pic" />
         </div>
       </div>
     </section>
@@ -428,7 +428,7 @@
 
 <script setup>
 import { ref } from 'vue'
-import profileImg from '/profile.jpg?url'
+const baseUrl = import.meta.env.BASE_URL
 
 const year = new Date().getFullYear()
 
