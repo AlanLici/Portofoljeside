@@ -6,7 +6,7 @@ import vue from '@vitejs/plugin-vue'
 // If you later switch to a custom domain (user/organization domain), change base to "/".
 export default defineConfig({
   plugins: [vue()],
-  base: '/PORTOFOLJESIDE/',
+  base: '/Portofoljeside/',
   // Keep Vite build output in the default /dist folder.
   build: {
     outDir: 'dist',

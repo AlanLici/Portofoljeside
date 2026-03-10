@@ -428,7 +428,7 @@
 
 <script setup>
 import { ref } from 'vue'
-import profileImg from '/Profile.jpg?url'
+import profileImg from '/profile.jpg?url'
 
 const year = new Date().getFullYear()
 
