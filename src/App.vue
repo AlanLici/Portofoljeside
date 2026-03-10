@@ -41,7 +41,7 @@
       <div class="container">
         <h2 class="section-title">About Me</h2>
         <p class="section-subtitle">
-          I'm a Master's student in Data Science at the University of Stavanger with a Bachelor's in Computer Engineering. Through studies and three summer positions as a fullstack developer at Gurusoft AS, I've built strong skills in collaboration, problem-solving, and developing testable, efficient code. I have experience in fullstack development, data analysis, and machine learning.
+          I'm a Master's student in Data Science at the University of Stavanger with a Bachelor's in Computer Engineering. Through studies and three summer positions as a fullstack developer, I've built strong skills in collaboration, problem-solving, and developing testable, efficient code. I have experience in fullstack development, data analysis, and machine learning.
         </p>
         <div class="about-grid">
           <div class="about-card">
